@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketClientForCShape", "TCPClientDemo\SocketClientForCShape.csproj", "{33C06A2E-997A-4F3E-8B5C-ED6D07E33921}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketClientForCShape", "SocketClientForCShape\SocketClientForCShape.csproj", "{33C06A2E-997A-4F3E-8B5C-ED6D07E33921}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
